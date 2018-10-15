@@ -4,4 +4,4 @@
 :zap:A exaggerated too much FizzBuzz in Ruby.
 
 # Demo
-![image](https://i.imgur.com/vdzj0XI.png)
+![image](https://i.imgur.com/bLTWnxg.gif)
